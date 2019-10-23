@@ -1,4 +1,5 @@
 # Vue Composition Sample App
+Video Available - https://www.youtube.com/watch?v=_qh18Q1I4-M
 
 <div>
  <img src="https://raw.githubusercontent.com/aaronksaunders/vue-composition-app-1/master/Screen%20Shot%202019-10-20%20at%201.55.11%20AM.png" width="80%" style="padding:10px">
