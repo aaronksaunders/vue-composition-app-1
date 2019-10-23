@@ -1,5 +1,9 @@
 # Vue Composition Sample App
 
+<div>
+ <img src="https://raw.githubusercontent.com/aaronksaunders/vue-composition-app-1/master/Screen%20Shot%202019-10-20%20at%201.55.11%20AM.png" width="80%" style="padding:10px">
+  </div>
+
 Sample app using the 2.0 plugin
 - Composition API RFC | Vue Composition API https://buff.ly/2He4rUk
 - Vue2 plugin for the Composition API. https://buff.ly/35TgSja
