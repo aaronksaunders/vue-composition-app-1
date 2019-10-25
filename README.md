@@ -9,8 +9,7 @@ Sample app using the 2.0 plugin
 - Composition API RFC | Vue Composition API https://buff.ly/2He4rUk
 - Vue2 plugin for the Composition API. https://buff.ly/35TgSja
 
-- See Another Project Using Vue Composition API
- - https://dev.to/aaronksaunders/using-vue-composition-api-with-firebase-1oib
+- See Another Project Using Vue Composition API: https://dev.to/aaronksaunders/using-vue-composition-api-with-firebase-1oib
  
 
 ## Project setup
